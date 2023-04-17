@@ -1,2 +1,2 @@
 # BigDataDemo
-Demo for Big Data Learning
+Demo for Big Data Learning from Ineuron
